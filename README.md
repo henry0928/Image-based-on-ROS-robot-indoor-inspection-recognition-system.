@@ -1,0 +1,1 @@
+# Image-based-on-ROS-robot-indoor-inspection-recognition-system.
